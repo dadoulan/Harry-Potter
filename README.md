@@ -1,6 +1,6 @@
 # Harry Potter
 
-![HarryPotter](https://github.com/shompoth/Tesla/blob/main/img/screenshot-HarryPotter.png)
+![HarryPotter](https://github.com/shompoth/Harry-Potter/blob/main/img/screenshot-HarryPotter.png)
 
 Ce projet est un site sur le thème d'Harry Potter. </br>
 Plusieurs fonctionnalitées de bootstrap sont mises en avant : barre de navigation, liste défilante, cards et pop up.
